@@ -1,7 +1,7 @@
 ## Hello this is a simple application used for chatting
 ### Both the users use the same memory space 
 
-Server:
+# Server:
 '''
 #include <stdio.h>
 #include <stdlib.h>
@@ -69,7 +69,7 @@ int main()
 
 '''
 
-Client.c
+# Client.c
 
 '''
 #include <stdio.h>
