@@ -2,7 +2,7 @@
 ### Both the users use the same memory space 
 
 # Server:
-'''
+
 
     #include <stdio.h>
     #include <stdlib.h>
@@ -66,11 +66,11 @@
         return 0;
     }
 
-'''
+
 
 # Client.c
 
-'''
+
 
     #include <stdio.h>
     #include <stdlib.h>
@@ -118,6 +118,6 @@
         }
 
 
-'''
+
 Hope you understood this 
 ## Thank You
