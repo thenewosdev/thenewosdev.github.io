@@ -3,6 +3,7 @@
 
 # Server:
 '''
+
     #include <stdio.h>
     #include <stdlib.h>
     #include <string.h>
@@ -70,6 +71,7 @@
 # Client.c
 
 '''
+
     #include <stdio.h>
     #include <stdlib.h>
     #include <string.h>
@@ -78,7 +80,6 @@
     #include <sys/shm.h>
     #include <pthread.h>
     #include <signal.h>
-
     #define PRINT_INFO(MSG, ...) { \
         printf("%s INFO %d:%d %ld : " MSG ";;\n", \
         "TODO_PRINT_TIME", getpid(), getppid(), pthread_self()); \
