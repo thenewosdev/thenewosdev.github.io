@@ -1,4 +1,4 @@
 # thenewosdev.github.io
 
 ### Projects
-[Simple IPC using shmd](https://Breadcrumbsthenewosdev.github.io/projects/ipc/)
+[Simple IPC using shmd](https://thenewosdev.github.io/projects/ipc/)
